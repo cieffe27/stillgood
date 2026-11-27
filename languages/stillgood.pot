@@ -1,0 +1,78 @@
+# Copyright (C) 2026 Cristiano Ferrari
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: StillGood 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/stillgood\n"
+"POT-Creation-Date: 2026-11-27 12:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Domain: stillgood\n"
+
+#. Plugin Name of the plugin
+msgid "StillGood"
+msgstr ""
+
+#. Description of the plugin
+msgid "Displays a customizable badge before older evergreen posts that are still relevant, with per-post exclusion."
+msgstr ""
+
+#: stillgood.php:29
+msgid "This article is a few years old, but it is still relevant."
+msgstr ""
+
+#: stillgood.php:50
+msgid "Settings"
+msgstr ""
+
+#: stillgood.php:88
+msgid "Badge appearance and rules"
+msgstr ""
+
+#: stillgood.php:90
+msgid "Choose after how many years the badge appears and customize its text and colors."
+msgstr ""
+
+#: stillgood.php:97
+msgid "Show after (years)"
+msgstr ""
+
+#: stillgood.php:105
+msgid "Badge text"
+msgstr ""
+
+#: stillgood.php:113
+msgid "Colors"
+msgstr ""
+
+#: stillgood.php:167
+msgid "The badge only appears on posts published at least this many years ago."
+msgstr ""
+
+#: stillgood.php:185
+msgid "Optional: use {years} in the text to automatically insert the actual years since publication (e.g. \"This article is over {years} years old, but it is still relevant.\")."
+msgstr ""
+
+#: stillgood.php:199
+msgid "Background"
+msgstr ""
+
+#: stillgood.php:203
+msgid "Accent border"
+msgstr ""
+
+#: stillgood.php:207
+msgid "Text"
+msgstr ""
+
+#: stillgood.php:265
+msgid "Hide the badge on this post"
+msgstr ""
+
+#: stillgood.php:346
+msgid "Still relevant content notice"
+msgstr ""
